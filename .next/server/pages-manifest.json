@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/item": "pages/api/item.js",
+  "/api/loaditems": "pages/api/loaditems.js",
+  "/components/Header": "pages/components/Header.html",
+  "/": "pages/index.html",
+  "/pokemon/[name]": "pages/pokemon/[name].html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
